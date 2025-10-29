@@ -15,8 +15,12 @@ My approach combines technical rigor with regulatory compliance (Law 1581 of 201
 This repository contains a collection of data analysis projects organized by topic:
 
 projects/
+```
 ├── enfermedades/ # Child mortality and public health analysis
+```
+```
 ├── elecciones/ # Electoral data and voting behavior
+```
 
 
 Each project includes:
