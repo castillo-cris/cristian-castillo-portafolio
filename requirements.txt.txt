@@ -1,0 +1,7 @@
+pandas
+plotly
+ipywidgets
+geopandas
+pycountry
+display
+warnings
