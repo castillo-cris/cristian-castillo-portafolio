@@ -16,7 +16,7 @@ This repository contains a collection of data analysis projects organized by top
 
 projects/
 ```
-├── enfermedades/ # Child mortality and public health analysis
+├── salud/ # Child mortality and public health analysis
 ```
 ```
 ├── elecciones/ # Electoral data and voting behavior
