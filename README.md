@@ -32,6 +32,7 @@ Each project includes:
 
 ---
 
+
 ## 🧠 Skills & Tools
 
 - **Languages**: Python, SQL, Java
