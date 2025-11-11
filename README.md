@@ -32,14 +32,6 @@ Each project includes:
 
 ---
 
-## 📂 Datos electorales
-Este repositorio utiliza **Git LFS** para manejar archivos grandes (`.csv`, `.geojson`).  
-Antes de clonar, asegúrate de tener instalado [Git LFS](https://git-lfs.github.com/):
-
-```bash
-git lfs install
-git clone https://github.com/castillo-cris/cristian-castillo-portafolio.git
-
 
 ## 🧠 Skills & Tools
 
