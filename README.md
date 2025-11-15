@@ -46,4 +46,4 @@ Each project includes:
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/cristian-castillo-87aab9217)
-- 📧 Email: cristiancastle91@gmail.com
+- 📧 Email: cristiancastillo.analytics@gmail.com
